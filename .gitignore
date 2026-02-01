@@ -1,0 +1,23 @@
+# Project-specific data
+data/*-project-status.yaml
+data/*.bak
+iterations/
+planning-iterations/
+
+# Backup files
+*.bak
+*.backup
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
